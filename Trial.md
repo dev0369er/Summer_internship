@@ -87,5 +87,5 @@
 
 ---
 ### Author:
-- *DEV SONI *
-- *devsoni20122004@gmail.com *
+- DEV SONI 
+- devsoni20122004@gmail.com 
