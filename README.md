@@ -1,4 +1,4 @@
-METAWEAR Summer Internship 2024
+**METAWEAR Summer Internship 2024**
 Project Overview
 This internship focuses on developing assets and integrating them into a graphical user interface (GUI) using Unreal Engine and CLO 3D software. The goal is to enhance visual programming skills and resolve software integration issues while exploring cloud solutions for asset storage and management.
 
