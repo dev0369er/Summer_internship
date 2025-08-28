@@ -31,8 +31,8 @@ Objective: To bridge the gap between data analytics and strategic business insig
 
 📅 Week 1 – Data Handling & Cleaning
 
-✔ Imported raw data (CSV/Excel) into Python and Power BI.
-✔ Cleaned datasets using Excel and Pandas (missing value imputation, duplicates removal, formatting).
+##Imported raw data (CSV/Excel) into Python and Power BI.
+##Cleaned datasets using Excel and Pandas (missing value imputation, duplicates removal, formatting).
 ✔ Conducted Exploratory Data Analysis (EDA) using Matplotlib & Seaborn.
 ✔ Built an interactive Power BI prototype dashboard for sales data.
 ✔ Practiced SQL queries (Joins, Group By, Aggregates) for business reporting.
