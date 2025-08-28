@@ -31,44 +31,44 @@ Objective: To bridge the gap between data analytics and strategic business insig
 
 📅 Week 1 – Data Handling & Cleaning
 
-##Imported raw data (CSV/Excel) into Python and Power BI.
-##Cleaned datasets using Excel and Pandas (missing value imputation, duplicates removal, formatting).
-✔ Conducted Exploratory Data Analysis (EDA) using Matplotlib & Seaborn.
-✔ Built an interactive Power BI prototype dashboard for sales data.
-✔ Practiced SQL queries (Joins, Group By, Aggregates) for business reporting.
+1) Imported raw data (CSV/Excel) into Python and Power BI.
+2) Cleaned datasets using Excel and Pandas (missing value imputation, duplicates removal, formatting).
+3) Conducted Exploratory Data Analysis (EDA) using Matplotlib & Seaborn.
+4) Built an interactive Power BI prototype dashboard for sales data.
+5) Practiced SQL queries (Joins, Group By, Aggregates) for business reporting.
 
-🔧 Tech Stack: Excel, Python (Pandas, Matplotlib, Seaborn), Power BI, MySQL
+ Tech Stack: Excel, Python (Pandas, Matplotlib, Seaborn), Power BI, MySQL
 
 📅 Week 2 – Life Expectancy Analysis
 
-✔ Used Life Expectancy dataset to explore correlations between socio-economic and health indicators.
-✔ Performed EDA (distribution plots, heatmaps, outlier detection).
-✔ Conducted correlation analysis (impact of GDP, schooling, health expenditure).
-✔ Designed a dashboard for visualization of life expectancy trends.
+1) Used Life Expectancy dataset to explore correlations between socio-economic and health indicators.
+2) Performed EDA (distribution plots, heatmaps, outlier detection).
+3) Conducted correlation analysis (impact of GDP, schooling, health expenditure).
+4) Designed a dashboard for visualization of life expectancy trends.
 
-🔧 Tech Stack: Python (Pandas, Seaborn, Matplotlib), Plotly, Jupyter Notebook
+ Tech Stack: Python (Pandas, Seaborn, Matplotlib), Plotly, Jupyter Notebook
 
 📅 Week 3 – Sentiment & Emotion Analysis
 
-✔ Analyzed Twitter dataset for sentiment/emotion recognition using TensorFlow & NLP techniques.
-✔ Classified emotions like joy, anger, sadness, fear, and neutral.
-✔ Conducted A/B testing simulation to evaluate sentiment-driven marketing campaigns.
-✔ Applied PCA & Chi-square tests to uncover deeper relationships in customer behavior.
-✔ Generated Plotly dashboards for interactive emotion insights.
+1) Analyzed Twitter dataset for sentiment/emotion recognition using TensorFlow & NLP techniques.
+2) Classified emotions like joy, anger, sadness, fear, and neutral.
+3) Conducted A/B testing simulation to evaluate sentiment-driven marketing campaigns.
+4) Applied PCA & Chi-square tests to uncover deeper relationships in customer behavior.
+5) Generated Plotly dashboards for interactive emotion insights.
 
-🔧 Tech Stack: Python (TensorFlow, Scikit-learn, NLTK), Plotly, Pandas
+ Tech Stack: Python (TensorFlow, Scikit-learn, NLTK), Plotly, Pandas
 
 📅 Week 4 – Business Insights & CLTV
 
-✔ Developed Customer Lifetime Value (CLTV) models to predict long-term profitability.
-✔ Integrated churn prediction, segmentation, and sentiment scores into a Power BI business dashboard.
-✔ Built interactive KPIs for Response Rate, CLTV, and Total Spend.
-✔ Applied scenario-based forecasting (+10% marketing spend) using Prophet/ARIMA.
-✔ Consolidated all work into a final capstone report & dashboard.
+1) Developed Customer Lifetime Value (CLTV) models to predict long-term profitability.
+2) Integrated churn prediction, segmentation, and sentiment scores into a Power BI business dashboard.
+3) Built interactive KPIs for Response Rate, CLTV, and Total Spend.
+4) Applied scenario-based forecasting (+10% marketing spend) using Prophet/ARIMA.
+5) Consolidated all work into a final capstone report & dashboard.
 
-🔧 Tech Stack: Python (Scikit-learn, XGBoost, Prophet, Plotly), Power BI
+ Tech Stack: Python (Scikit-learn, XGBoost, Prophet, Plotly), Power BI
 
-✅ Conclusion
+Conclusion
 
 My internship at KrishaWeb strengthened my skills in data analytics, business intelligence, and applied machine learning.
 I gained hands-on experience in:
