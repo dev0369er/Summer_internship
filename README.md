@@ -1,92 +1,97 @@
-# Week 1 Tasks Summary
+Summer Internship Report – Project Analyst @ KrishaWeb
 
-## Unreal Engine 5.1 Installation
+This repository contains the work I completed during my 4-week summer internship at KrishaWeb as a Project Analyst.
+The internship focused on data handling, business analytics, sentiment analysis, and customer lifetime value modeling using tools such as Python, Power BI, SQL, and advanced visualization libraries.
 
-- Installed Unreal Engine 5.1 on local machine for development purposes.
+🚀 Table of Contents
 
-## CLO 3D Software Setup and Tutorials
+Introduction
 
-- Installed CLO 3D software locally and completed introductory tutorials to familiarize with its functionalities.
+Week 1 – Data Handling & Cleaning
 
-## Visual Programming for GUI
+Week 2 – Life Expectancy Analysis
 
-- Learned visual programming techniques through tutorials to enhance GUI development skills.
+Week 3 – Sentiment & Emotion Analysis
 
-## Resolution of Login Issues in CLO 3D Software
+Week 4 – Business Insights & CLTV
 
-- Identified and resolved login issues encountered during setup and initial usage of CLO 3D software.
+Conclusion
 
----
-# Week 2 Tasks Summary
+References
 
-## Unreal Engine 5.4.1 Version Update
+📌 Introduction
 
-- Updated to Unreal Engine 5.4.1 to leverage new features and improvements.
+Company: KrishaWeb
 
-## Gown Design in CLO-3D
+Role: Project Analyst Intern
 
-- Created a simple gown using CLO-3D to explore garment design capabilities.
+Duration: 4 Weeks
 
-## Skirt Design Tutorial in CLO-3D
+Objective: To bridge the gap between data analytics and strategic business insights by working on real-world datasets, developing dashboards, and applying machine learning for decision-making.
 
-- Followed tutorials to learn how to create a skirt in CLO-3D, expanding garment design skills.
+📅 Week 1 – Data Handling & Cleaning
 
-## Basic UI Development in Unreal Engine 5.4.1
+✔ Imported raw data (CSV/Excel) into Python and Power BI.
+✔ Cleaned datasets using Excel and Pandas (missing value imputation, duplicates removal, formatting).
+✔ Conducted Exploratory Data Analysis (EDA) using Matplotlib & Seaborn.
+✔ Built an interactive Power BI prototype dashboard for sales data.
+✔ Practiced SQL queries (Joins, Group By, Aggregates) for business reporting.
 
-- Implemented a basic user interface in Unreal Engine 5.4.1 following instructional tutorials.
+🔧 Tech Stack: Excel, Python (Pandas, Matplotlib, Seaborn), Power BI, MySQL
 
----
+📅 Week 2 – Life Expectancy Analysis
 
-# Week 3 Tasks Summary
+✔ Used Life Expectancy dataset to explore correlations between socio-economic and health indicators.
+✔ Performed EDA (distribution plots, heatmaps, outlier detection).
+✔ Conducted correlation analysis (impact of GDP, schooling, health expenditure).
+✔ Designed a dashboard for visualization of life expectancy trends.
 
-## Evaluation of Free Tier Cloud Server Services
+🔧 Tech Stack: Python (Pandas, Seaborn, Matplotlib), Plotly, Jupyter Notebook
 
-- Researched and evaluated various free tier cloud server services to understand their offerings and benefits.
+📅 Week 3 – Sentiment & Emotion Analysis
 
-## Installation of Visual Studio with Unreal Engine Prerequisites
+✔ Analyzed Twitter dataset for sentiment/emotion recognition using TensorFlow & NLP techniques.
+✔ Classified emotions like joy, anger, sadness, fear, and neutral.
+✔ Conducted A/B testing simulation to evaluate sentiment-driven marketing campaigns.
+✔ Applied PCA & Chi-square tests to uncover deeper relationships in customer behavior.
+✔ Generated Plotly dashboards for interactive emotion insights.
 
-- Installed Visual Studio with all necessary prerequisites for Unreal Engine development.
+🔧 Tech Stack: Python (TensorFlow, Scikit-learn, NLTK), Plotly, Pandas
 
-## Unreal Engine Project Setup with External Database Plugin
+📅 Week 4 – Business Insights & CLTV
 
-- Created a new Unreal Engine project and integrated an externally built plugin for database functionality.
+✔ Developed Customer Lifetime Value (CLTV) models to predict long-term profitability.
+✔ Integrated churn prediction, segmentation, and sentiment scores into a Power BI business dashboard.
+✔ Built interactive KPIs for Response Rate, CLTV, and Total Spend.
+✔ Applied scenario-based forecasting (+10% marketing spend) using Prophet/ARIMA.
+✔ Consolidated all work into a final capstone report & dashboard.
 
-## Setup of Free Tier Database on Clever-cloud
+🔧 Tech Stack: Python (Scikit-learn, XGBoost, Prophet, Plotly), Power BI
 
-- Established a free tier database on Clever-cloud to store project data securely.
+✅ Conclusion
 
-## Integration of Database with Unreal Engine Project
+My internship at KrishaWeb strengthened my skills in data analytics, business intelligence, and applied machine learning.
+I gained hands-on experience in:
 
-- Connected the Clever-cloud database to the Unreal Engine project using the MySQLconnect node for seamless data interaction.
+Cleaning and preprocessing real-world datasets.
 
----
+Performing EDA and advanced statistical analysis.
 
-# Week 4 Tasks Summary
+Building predictive models for customer behavior.
 
-## Importing USD Files into Cloud Database
+Designing interactive dashboards for business stakeholders.
 
-- Explored and implemented importing USD (Universal Scene Description) files into a cloud database using BLOB (Binary Large Object) storage.
+This internship helped me connect technical analytics with practical business decision-making.
 
-## Database Table Creation
 
-- Created a database table with two columns: one for USD file aliases and another for storing USD files as BLOB data.
+📖 References
 
-## USD File Import via PHPMyAdmin on Clever-cloud
+Pandas Documentation
 
-- Successfully imported USD files into the database using PHPMyAdmin on Clever-cloud.
+Scikit-learn Documentation
 
-## Manual Method for Fetching USD from Database
+TensorFlow Documentation
 
-- Developed a manual procedure to retrieve USD files from the database, ensuring effective data retrieval.
+Microsoft Power BI
 
-## Documentation Preparation
-
-- Compiled comprehensive documentation outlining:
-  - **How to Connect the Database**: Step-by-step instructions for establishing a connection between applications (like Unreal Engine) and the database.
-  - **How to Import USD Files into Database**: Detailed guide on importing USD files using PHPMyAdmin or similar tools, ensuring clarity and ease of use.
-
----
-### Author:
-- DEV SONI 
-- devsoni20122004@gmail.com 
-
+Plotly Documentation
